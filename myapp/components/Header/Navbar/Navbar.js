@@ -33,7 +33,7 @@ const Navbar = () => {
                 <li className='py-3 border-b-[1px] border-solid md:py-0 md:border-none'>
                   <Link
                     href={'/'}
-                    className='uppercase text-md tracking-[.12em] font-medium hover:text-lion transition duration-300 ease-in-out md:mx-[14px] xl:mx-5 2xl:mx-6 md:text-white'
+                    className='uppercase text-md tracking-[.12em] font-medium hover:text-lion hover:underline transition duration-300 ease-in-out md:mx-[14px] xl:mx-5 2xl:mx-6 md:text-white'
                   >
                     Home
                   </Link>
@@ -41,7 +41,7 @@ const Navbar = () => {
                 <li className='py-3 border-b-[1px] border-solid md:py-0 md:border-none'>
                   <Link
                     href={'/'}
-                    className='uppercase text-md tracking-[.12em] font-medium hover:text-lion transition duration-300 ease-in-out md:mx-[14px] xl:mx-5 2xl:mx-6 md:text-white'
+                    className='uppercase text-md tracking-[.12em] font-medium hover:text-lion hover:underline transition duration-300 ease-in-out md:mx-[14px] xl:mx-5 2xl:mx-6 md:text-white'
                   >
                     Gallery
                   </Link>
@@ -49,7 +49,7 @@ const Navbar = () => {
                 <li className='py-3 border-b-[1px] border-solid md:py-0 md:border-none'>
                   <Link
                     href={'/'}
-                    className='uppercase text-md tracking-[.12em] font-medium hover:text-lion transition duration-300 ease-in-out md:mx-[14px] xl:mx-5 2xl:mx-6 md:text-white'
+                    className='uppercase text-md tracking-[.12em] font-medium hover:text-lion hover:underline transition duration-300 ease-in-out md:mx-[14px] xl:mx-5 2xl:mx-6 md:text-white'
                   >
                     About
                   </Link>
@@ -57,7 +57,7 @@ const Navbar = () => {
                 <li className='py-3 border-b-[1px] border-solid md:py-0 md:border-none'>
                   <Link
                     href={'/'}
-                    className='uppercase text-md tracking-[.12em] font-medium hover:text-lion transition duration-300 ease-in-out md:mx-[14px] xl:mx-5 2xl:mx-6 md:text-white'
+                    className='uppercase text-md tracking-[.12em] font-medium hover:text-lion hover:underline transition duration-300 ease-in-out md:mx-[14px] xl:mx-5 2xl:mx-6 md:text-white'
                   >
                     Contact
                   </Link>

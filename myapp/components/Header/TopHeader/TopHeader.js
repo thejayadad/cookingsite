@@ -9,16 +9,16 @@ import { IoLogoYoutube } from 'react-icons/io';
 
 const TopHeader = () => {
   return (
-    <section className='"header-top bg-white min-h-[48px] flex items-center py-3'>
+    <section className='"header-top bg-white min-h-[48px] flex items-center py-3 '>
         <div className='container max-w-[1200px] mx-auto lg:flex lg:justify-between'>
             <div className='header-top-left flex flex-col items-center sm:flex-row sm:justify-center lg:justify-start'>
-                <div className='flex py-1'>
-                    <FaMapMarkerAlt className='w-[10px] mx-2 text-light' alt='map' />
-                    <span className='opacity-60 font-light text-sm'>Tasty Experience</span>
+                <div className='flex py-1 '>
+                    <FaMapMarkerAlt className='w-[10px] mx-2 text-light cursor-pointer' alt='map' />
+                    <span className='opacity-60 font-light text-sm cursor-pointer'>Tasty Experience</span>
                 </div>
                 <div className='flex py-1 md:ms-5 lg:ms-[72px]'>
-                    <FaPhone className='w-3 mx-2 text-light' alt='phone'/>
-                    <span className='text-platinum opacity-60 font-light text-sm'>
+                    <FaPhone className='w-3 mx-2 text-light cursor-pointer' alt='phone'/>
+                    <span className='text-platinum opacity-60 font-light text-sm cursor-pointer'>
                         +123 909 654 8888
                     </span>
                 </div>
