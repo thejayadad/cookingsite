@@ -1,9 +1,11 @@
-import Image from 'next/image'
+import Header from '@/components/Header/Header'
+import ShowCase from '@/components/ShowCase/ShowCase'
 
 export default function Home() {
   return (
    <main>
-    home
+    <Header />
+    <ShowCase />
    </main>
   )
 }
