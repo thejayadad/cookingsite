@@ -14,7 +14,7 @@ const Showcase = () => {
     <section className='bg-light min-h-[640px] mx-auto px-3 flex items-center py-16'>
       <div className='container max-w-[1200px] mx-auto grid md:grid-cols-2 gap-14'>
         <div className='flex flex-col justify-center items-start'>
-          <h3 className='opacity-70 text-xl sm:text-[22px] uppercase'>
+          <h3 className='opacity-70 tracking-[.25em] text-xl sm:text-[22px] uppercase'>
             Welcome To
           </h3>
           <h1 className='text-2xl sm:text-[38px] tracking-[.04em] font-normal py-3 text-white mb-3'>
